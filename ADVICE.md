@@ -15,10 +15,6 @@
  > - I didn't like the contents of certain modules, so I looked for others. 
  > Regardless of how "good" a course is, or how "effective" a study method is; do what is best for **you**!
 
-<br />
-
----
-
 ### Layout
   Each year is split into 3 terms, which should each last around 12-16 weeks.
 
