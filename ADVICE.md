@@ -5,7 +5,7 @@
  > Approach it like any other new skill. Push yourself just above your upper limit **consistently** and you will get better. Start slow, don't burn yourself out. Gradually increase how long you study for and consider looking into different study methods (ie. Pomodoro Technique, etc)
  >
  > ### 2. Be realistic
- > There are too many topics to learn absolutely everything in a reasonable amount of time. Please use [this repository](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file) to make any changes to fit your own personal goals. Study what interests you, not what you think is required for a job!
+ > There are too many topics in both CS and Robotics to learn absolutely everything in a reasonable amount of time. Please use [this repository](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file) to make any changes to fit your own personal goals. Study what interests you, not what you think is required for a job!
  >
  > ### 3. Embrace failure!
  >
