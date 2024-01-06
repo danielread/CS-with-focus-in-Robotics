@@ -13,6 +13,7 @@
  > - Some study methods didn't work for me, so I tried others.
  > - I didn't like how some modules were taught, so I looked for others. 
  > - I didn't like the contents of certain modules, so I looked for others. 
+ >
  > Regardless of how "good" a course is, or how "effective" a study method is; do what is best for **you**!
 
 ### Layout
